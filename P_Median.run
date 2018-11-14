@@ -1,0 +1,7 @@
+reset;
+model P_Median.mod;
+data P_Median.dat;
+option solver cplex;
+solve;
+display x;
+display y;
