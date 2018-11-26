@@ -1,4 +1,4 @@
-param n;			#num of families
+param n;			#max num of families
 
 set P;				#parts
 set M;				#machines
